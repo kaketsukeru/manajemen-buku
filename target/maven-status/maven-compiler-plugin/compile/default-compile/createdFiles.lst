@@ -1,0 +1,12 @@
+donny\application\models\dtos\BookDto.class
+donny\application\models\Books.class
+donny\application\models\forms\EditBookForm.class
+donny\application\models\dtos\Response.class
+donny\application\models\mappers\BookMapper.class
+donny\application\models\forms\AddBookForm.class
+donny\application\repositories\BookRepository.class
+donny\application\Application.class
+donny\application\services\BookServiceImpl.class
+donny\application\services\BookService.class
+donny\application\controllers\LibraryApi.class
+donny\application\models\exceptions\Exception.class

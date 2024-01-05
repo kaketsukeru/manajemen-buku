@@ -9,12 +9,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-initial" />
         <module name="ManajemenBuku" />
+        <module name="manajemen-buku" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ManajemenBuku" options="-parameters" />
+      <module name="manajemen-buku" options="-parameters" />
       <module name="spring-boot-initial" options="-parameters" />
     </option>
   </component>
